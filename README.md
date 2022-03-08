@@ -8,3 +8,5 @@ We promote project - based learning and also do presentations to help people und
 
 - Python Calculator App
 - Web Scraping Program
+- Guess the Number Game 
+- Tic Toc AI 
