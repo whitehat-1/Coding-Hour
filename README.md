@@ -11,3 +11,4 @@ We promote project - based learning and also do presentations to help people und
 - Guess the Number Game 
 - Tic-Tac-Toe AI 
 - Code a Discord Bot with Python
+- Mini Projects
